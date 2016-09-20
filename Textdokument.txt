@@ -1,3 +1,3 @@
-text
+﻿text
 
-mer ändrad text
+mer konfliktig text
